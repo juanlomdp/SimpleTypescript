@@ -1,0 +1,9 @@
+debo usar  NPX y el comando  ejemplo -> npx tsc --init
+    -> npx tsc -v
+
+
+npm install typescript --save-dev
+npx tsc  -> para compilar los js
+----
+el tsconfig 
+active algunas opciones para reforzar a typescript
